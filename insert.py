@@ -23,9 +23,11 @@ def insertionSort(array):
 
 data = [2,8,4,3,1,6,3]
 
-#reverseInsertionSort(data)
-#print('Sorted Array in Descending Order:' , data)
+reverseInsertionSort(data)
 
-print('Sorted Array in Descending Order:' , reverseInsertionSort(data))
-print('Sorted Array in Ascending Order:' , insertionSort(data))
+print('Sorted Array in Descending Order:' , data)
+
+insertionSort(data)
+
+print('Sorted Array in Ascending Order:' , data)
 
