@@ -1,2 +1,11 @@
 # CISC-3220
-Keep track of algo's assignments.
+
+Analysis of Algorithms Assignments, attempting to code it all in Python.
+
+### Assignment 1
+
+Regular & Inverse Insertion Sort Algorithm.
+
+### Assignment 1
+
+Merge Sort Algorithm.
