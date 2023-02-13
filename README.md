@@ -6,6 +6,6 @@ Analysis of Algorithms Assignments, attempting to code it all in Python.
 
 Regular & Inverse Insertion Sort Algorithm.
 
-### Assignment 1
+### Assignment 2
 
 Merge Sort Algorithm.
